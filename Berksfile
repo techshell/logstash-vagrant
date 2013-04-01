@@ -1,0 +1,6 @@
+cookbook 'java'
+cookbook 'logstash'
+cookbook 'apt'
+cookbook 'git'
+cookbook 'build-essential'
+cookbook 'kibana', git: 'git://github.com/realityforge/chef-kibana.git'
