@@ -11,6 +11,10 @@ This is a [logstash](http://logstash.net/) automated installation using [vagrant
 
 ## Install
 
+Install the latest version of Vagrant from the [downloads page](http://downloads.vagrantup.com/).
+
+Minimum Vagrant version 1.1.4
+
 Type the code below in terminal.
 
 	$ git clone git://github.com/hatimabdalla/logstash-vagrant.git logstash-vagrant
