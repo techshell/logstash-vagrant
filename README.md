@@ -20,6 +20,9 @@ Accept the .rvmrc file creation, then continue.
 
 	$ bundle install
 	$ berks install
+
+Update Vagrantfile with the twitter username and password.
+
 	$ vagrant up
 
 To access the Kibana web interface just browse to http://localhost:8080
