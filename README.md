@@ -21,6 +21,10 @@ Accept the .rvmrc file creation, then continue.
 	$ bundle install
 	$ berks install
 
+Install the vagrant plugin berkshelf-vagrant as follows:
+
+	$ vagrant plugin install berkshelf-vagrant
+
 Update Vagrantfile with the twitter username and password.
 
 	$ vagrant up
